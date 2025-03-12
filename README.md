@@ -20,4 +20,4 @@
 2. Abre `index.html` en tu navegador
 
 ## 🌐 Demo en vivo
-[Ver en GitHub Pages](https://tu-usuario.github.io/amigo-secreto)
+[Ver en GitHub Pages](https://tatuar1.github.io/Amigo-secreto-Alura/)
